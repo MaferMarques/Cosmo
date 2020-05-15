@@ -1,2 +1,2 @@
 # Cosmo
-# Primeira etapa: Configuração inicial, autentificação de cadastro e login
+Primeira etapa: Configuração inicial, autentificação de cadastro e login
